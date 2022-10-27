@@ -157,3 +157,15 @@ body{
     height: 1000px;
     width: 120px;
 }
+.img1:hover{
+    width: 320px;
+    height: 320px;
+ }
+ .img2:hover{
+     width: 320px;
+     height: 320px;
+  }
+  .img3:hover{
+     width: 320px;
+     height: 320px;
+}
